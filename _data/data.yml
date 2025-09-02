@@ -1,0 +1,258 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: left # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Ross Cedric Nazareno
+  tagline: University Developer
+  avatar: profile_pic.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: nrosscedric@gmail.com
+  phone: 09686326314
+  citizenship: Filipino
+  website: Lagyan ko pag may project na
+  linkedin: Lagyan ko if meron na
+  github: 0ced0
+  gitlab: Lagyan ko if meron na
+  bitbucket: dunno what this is
+  twitter: Lagyan ko if meron na
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+  languages:
+    title: Languages
+    info:
+    - idiom: Filipino
+      level: Native
+
+    - idiom: English
+      level: Professional
+
+    - idiom: Taglish
+      level: Professional
+
+  interests:
+    title: Interests
+    info:
+    - item: Working out
+      link:
+
+
+    - item: Web development
+      link:
+
+
+    - item: Music
+      link:
+
+
+career-profile:
+  title: Career Profile
+  summary: |
+    As a proud academic achiever and a student leader, I put emphasis on developing 
+    my own skills. I see this as an investment which I will be able to use in my future employment.
+    By developing my own websites and applications through python, dart, flask, and other tools such as 
+    java script, css, and flutter, I aim to be highly effective as a full stack developer.
+
+    Moreover, studying in the College of Computer Studies at the LSPU main branch, I am able to study Machine
+    Learning and A.I. development to a enchanced intent with first class performance and intelligent systems.
+
+    To be part of a company means to work with a team, this is why I pursued to develop my team working 
+    and communication skills, by working as the former President of our college's student organization, I am 
+    highly efficient in conflict resolution and team management.
+    
+education:
+  title: Education
+  info:
+  - degree: Bachelor of Science in Computer Science
+    university: Laguna State Polytechnic University
+    time: 2023 - Present
+    details: |
+        - Former Student Organization of the College of Computer Studies - President
+        - LSPU - SCC DOST-SEI Scholar’s Guild Active Member
+        - DOST SCHOLAR
+        
+  - degree: Academic Strand - STEM
+    university: LAGUNA SENIOR HIGH SCHOOL
+    time: 2021 - 2023
+    details: |
+        - Consistent Honor Student
+        - Graduated with Honors
+
+  - degree: High School Diploma
+    university: INFANTA NATIONAL HIGH SCHOOL
+    time: 2016 - 2021
+    details: |
+        - Consistent Honor Student
+        - English Club Secretary
+        - Graduated with Honors
+
+  - degree: Elementary Diploma
+    university: INFANTA CENTRAL ELEMENTARY SCHOOL
+    time: 2010 - 2016
+    details: |
+        - Graduated Elementary
+
+experiences:
+  title: Experiences
+  info:
+  - role: Lead Developer
+    time: 2023 - 2024
+    company: Laguna State Polytechnic University - College of Computer Studies
+    details: |
+        Developed a library management system
+        - Created through C# and Win. Forms.
+        - Full Stack
+  - role: Backend Developer
+    time: 2024 - 2025
+    company: Laguna State Polytechnic University - College of Computer Studies
+    details: |
+      I was the back end developer in charge of organizing the flow of data 
+      through the website and the development of the database.
+        - Back end logic focus
+        - SQLite affiliation
+
+certifications:
+  title: Certifications
+  list:
+  - name: LSPU TUGATOG LEADERSHIP TRAINING AND WORKSHOP 2.0
+    start: 
+    end: 
+    organization: 
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      October 29, 2025
+      
+
+      
+  - name: DOST CALABARZON YUGTO
+    start: 2019
+    end:
+    organization: 
+    credentialid: 
+    credentialurl: 
+    credentialname: 
+    details: |
+      Leadership Training
+      November 25, 2024
+      
+
+# projects:
+#   title: Projects
+#   intro: >
+    
+#   assignments:
+#   - title: 
+#     link: 
+#     tagline:
+
+#   - title: 
+#     link: 
+#     tagline:
+
+#   - title: 
+#     link: 
+#     tagline: 
+
+#   - title: 
+#     link: 
+#     tagline: 
+
+#   - title: 
+#     link: 
+#     tagline: 
+
+# oss:
+#   title: OSS Contributions
+#   intro: >
+#     You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   contributions:
+#   - title: Tempo
+#     link: "#"
+#     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#   - title: Atom
+#     link: "#"
+#     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#   - title: Delta
+#     link: "#"
+#     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+# publications:
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#   - title: The Art of Computer Programming
+#     link: "#"
+#     authors: Donald E. Knuth
+#     conference: Addison-Wesley, 1968
+
+#   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#     link: "#"
+#     authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#     conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#   - title: A syntax directed compiler for Algol 60
+#     link: "#"
+#     authors: Edgar T. Irons
+#     conference: "Comm. ACM 4 (1961), 51–55"
+
+# recommendations:
+#   title: Recommendations
+#   list:
+#   - person: Yareli Perez
+#     email: perezyareli@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       Alan Doe is a super employee!
+#   - person: Lara Henderson
+#     email: larah@example.com
+#     phone: 012 345 6789
+#     role: General Director at example.com
+#     recommendation: |
+#       I would like to work with Alan Doe again!
+
+#       He is a great employee!
+
+skills:
+  title: Skills &amp; Proficiency
+
+  toolset:
+  - name: Python programming mastery
+    level: 80%
+
+  - name: C# programming mastery
+    level: 70%
+
+  - name: Flask
+    level: 80%
+
+  - name: HTML5 & CSS
+    level: 95%
+
+  - name: Flutter
+    level: 60%
+
+  - name: Dart
+    level: 60%
+
+footer: >
+  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
