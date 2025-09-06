@@ -126,12 +126,12 @@ experiences:
 
 projects:
   title: Projects
-  intro: >
+  intro: This is my first project in Machine Learning
     
   assignments:
-  - title: 
+  - title: Ross Cedric Nazareno - Machine Learning Activity 1
     link: Ross Cedric Nazareno_Machine Learning.pdf
-    tagline:
+    tagline: hell ye
 
 certifications:
   title: Certifications
