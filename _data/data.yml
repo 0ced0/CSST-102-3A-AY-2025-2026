@@ -17,7 +17,7 @@ sidebar:
   phone: 09686326314
   citizenship: Filipino
   # website: Lagyan ko pag may project na
-  linkedin: www.linkedin.com/in/nazareno-ross-cedric-149824382
+  linkedin: https://www.linkedin.com/in/nazareno-ross-cedric-149824382/
   github: 0ced0
   # gitlab: Lagyan ko if meron na
   # bitbucket: dunno what this is
@@ -124,15 +124,6 @@ experiences:
         - SQLite affiliation
 
 
-projects:
-  title: Projects
-  intro: This is my first project in Machine Learning
-    
-  assignments:
-  - title: Ross Cedric Nazareno - Machine Learning Activity 1
-    # link: Ross Cedric Nazareno_Machine Learning.pdf
-    tagline: hell ye
-
 certifications:
   title: Certifications
   list:
@@ -160,7 +151,14 @@ certifications:
       November 25, 2024
       
 
-
+projects:
+  title: Projects
+  intro: This is my first project in Machine Learning
+    
+  assignments:
+  - title: Ross Cedric Nazareno - Machine Learning Activity 1
+    link: Ross Cedric Nazareno_Machine Learning.pdf
+    tagline: hell ye
 
 #   - title: 
 #     link: 
