@@ -123,6 +123,16 @@ experiences:
         - Back end logic focus
         - SQLite affiliation
 
+
+projects:
+  title: Projects
+  intro: >
+    
+  assignments:
+  - title: 
+    link: Ross Cedric Nazareno_Machine Learning.pdf
+    tagline:
+
 certifications:
   title: Certifications
   list:
@@ -150,14 +160,7 @@ certifications:
       November 25, 2024
       
 
-# projects:
-#   title: Projects
-#   intro: >
-    
-#   assignments:
-#   - title: 
-#     link: 
-#     tagline:
+
 
 #   - title: 
 #     link: 
